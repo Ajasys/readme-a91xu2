@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Ajasys.github.io/readme-a91xu2/sitemap.xml
